@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning BTECH CSE in Amrita vishwa vidyapeetham,CBE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
-reach me by mail 
+reach me by mail
+amikthapradeep@gmail.com
 
 <!---
 amalpradeeppkd/amalpradeeppkd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
